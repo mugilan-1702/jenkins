@@ -3,6 +3,6 @@ public class Hello {
       // Prints "Hello, World" in the terminal window.
       System.out.println("Hello, World");
       System.out.println("Welcome Mugi");
-      System.out.println("Welcome to Jenkins");
+      System.out.println("Welcome to Jenkins and Git");
       }
 }
